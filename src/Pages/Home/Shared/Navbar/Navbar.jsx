@@ -27,7 +27,7 @@ const handleLogOut = ()=> {
    
     <>
       <li><Link to='/'>Home</Link></li>
-     <li><Link to='/allBlogs'>All Blogs</Link></li>
+     <li><Link to='/allProducts'>All Products</Link></li>
      
      
     

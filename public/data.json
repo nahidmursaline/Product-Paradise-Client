@@ -1,0 +1,259 @@
+ [
+      {
+        "product_name": "Smartphone X1",
+        "product_image": "https://i.ibb.co/5Fz6cQp/phone.jpg",
+        "short_description": "A high-end smartphone with a powerful processor. Featuring a stunning 6.5-inch display, the Smartphone X1 delivers vibrant colors and sharp details for an immersive viewing experience. The advanced camera system allows you to capture professional-quality photos and videos. With its long-lasting battery and fast charging capabilities, you can stay connected all day. The sleek design and durable build make it a stylish and reliable choice for tech enthusiasts.",
+        "price": 999.99,
+        "ratings": 4.5,
+        "availability": "In Stock",
+        "specifications": {
+          "screen_size": "6.5 inches",
+          "battery_life": "24 hours",
+          "camera": "12 MP",
+          "storage": "128 GB"
+        },
+        "category": "Tech"
+      },
+      {
+        "product_name": "Laptop Pro 15",
+        "product_image": "https://i.ibb.co/zxwYpr5/laptop.jpg",
+        "short_description": "A powerful laptop designed for professionals who demand performance and portability. The Laptop Pro 15 features a sleek aluminum body and a high-resolution 15.6-inch display, making it perfect for creative work, entertainment, and productivity tasks. Equipped with an Intel i7 processor, 16 GB of RAM, and a 512 GB SSD, it handles intensive applications with ease. The backlit keyboard and precision trackpad enhance your workflow, while the long battery life keeps you productive on the go.",
+        "price": 1499.99,
+        "ratings": 4.8,
+        "availability": "In Stock",
+        "specifications": {
+          "processor": "Intel i7",
+          "RAM": "16 GB",
+          "storage": "512 GB SSD",
+          "screen_size": "15.6 inches"
+        },
+        "category": "Tech"
+      },
+      {
+        "product_name": "Wireless Earbuds",
+        "product_image": "https://i.ibb.co/QkjhTQD/earbud.jpg",
+        "short_description": "Compact and high-quality sound wireless earbuds designed for music lovers and commuters. The Wireless Earbuds provide crystal clear audio and deep bass, ensuring an enjoyable listening experience. With their ergonomic design, they fit comfortably in your ears, even during extended use. The long-lasting battery provides up to 5 hours of playtime, and the included charging case offers additional charges on the go. These earbuds are also water-resistant, making them ideal for workouts and outdoor activities.",
+        "price": 199.99,
+        "ratings": 4.3,
+        "availability": "In Stock",
+        "specifications": {
+          "battery_life": "5 hours",
+          "connectivity": "Bluetooth 5.0",
+          "water_resistance": "IPX4"
+        },
+        "category": "Tech"
+      },
+      {
+        "product_name": "Smartwatch Series 5",
+        "product_image": "https://i.ibb.co/TqQR65p/smart-Watch.jpg",
+        "short_description": "A smartwatch with multiple health-tracking features and a stylish design. The Smartwatch Series 5 is your perfect fitness companion, offering heart rate monitoring, sleep tracking, and workout analytics. Its bright and clear display makes it easy to read notifications, messages, and apps. The watch is water-resistant up to 50 meters, making it suitable for swimming. With customizable watch faces and a variety of bands, you can personalize it to match your style. Stay connected and healthy with this versatile smartwatch.",
+        "price": 299.99,
+        "ratings": 4.6,
+        "availability": "In Stock",
+        "specifications": {
+          "battery_life": "18 hours",
+          "connectivity": "Bluetooth, Wi-Fi",
+          "water_resistance": "50 meters"
+        },
+        "category": "Tech"
+      },
+      {
+        "product_name": "4K HDR TV",
+        "product_image": "https://i.ibb.co/ncQ822T/TV.jpg",
+        "short_description": "A 55-inch 4K HDR TV with stunning picture quality and smart features. Experience your favorite movies and shows in breathtaking detail and vibrant colors with 4K resolution and HDR support. The Smart TV capabilities allow you to stream content from popular apps like Netflix, Hulu, and YouTube directly on your TV. With multiple HDMI and USB ports, you can easily connect your gaming console, Blu-ray player, and other devices. The sleek design and slim bezels add a modern touch to your living room.",
+        "price": 799.99,
+        "ratings": 4.7,
+        "availability": "In Stock",
+        "specifications": {
+          "screen_size": "55 inches",
+          "resolution": "4K",
+          "HDR": "Yes",
+          "smart_tv": "Yes"
+        },
+        "category": "Tech"
+      },
+      {
+        "product_name": "Bluetooth Speaker",
+        "product_image": "https://i.ibb.co/WBMcWzy/speaker.jpg",
+        "short_description": "Portable Bluetooth speaker with excellent sound quality and robust build. Enjoy your music anywhere with this compact and powerful Bluetooth Speaker. It delivers rich and clear sound with deep bass, making it perfect for indoor and outdoor use. The long-lasting battery provides up to 10 hours of playtime, so you can keep the party going. The speaker is also water-resistant, ensuring it can withstand splashes and light rain. Its sleek design and durable construction make it a great addition to your audio gear.",
+        "price": 129.99,
+        "ratings": 4.4,
+        "availability": "In Stock",
+        "specifications": {
+          "battery_life": "10 hours",
+          "water_resistance": "IPX7",
+          "connectivity": "Bluetooth 5.0"
+        },
+        "category": "Tech"
+      },
+      {
+        "product_name": "Casual Denim Jacket",
+        "product_image": "https://i.ibb.co/16v72sG/jacket.jpg",
+        "short_description": "Stylish and comfortable denim jacket, perfect for casual wear. This Casual Denim Jacket is made from high-quality denim that is both durable and soft to the touch. It features a classic design with button closures, chest pockets, and a relaxed fit. The jacket is versatile and can be paired with a variety of outfits, making it a wardrobe essential. Whether you're heading out for a day in the city or a night out with friends, this jacket adds a touch of cool to your look.",
+        "price": 59.99,
+        "ratings": 4.2,
+        "availability": "In Stock",
+        "specifications": {
+          "material": "Denim",
+          "sizes": "S, M, L, XL",
+          "color": "Blue"
+        },
+        "category": "Fashion"
+      },
+      {
+        "product_name": "Running Shoes",
+        "product_image": "https://i.ibb.co/4dFmFtb/shoe.jpg",
+        "short_description": "Lightweight running shoes with great support and comfort. Designed for runners, these Running Shoes feature a breathable mesh upper that keeps your feet cool and comfortable. The cushioned midsole provides excellent shock absorption, reducing impact on your joints. The durable rubber outsole offers great traction on various surfaces, ensuring stability and grip. With their stylish design and multiple color options, these shoes are perfect for both running and everyday wear.",
+        "price": 89.99,
+        "ratings": 4.5,
+        "availability": "In Stock",
+        "specifications": {
+          "material": "Mesh",
+          "sizes": "8, 9, 10, 11",
+          "color": "Black"
+        },
+        "category": "Fashion"
+      },
+      {
+        "product_name": "Leather Handbag",
+        "product_image": "https://i.ibb.co/Bfbj414/handbag.jpg",
+        "short_description": "Elegant leather handbag for all occasions, crafted from genuine leather. This Leather Handbag features a spacious interior with multiple compartments to keep your essentials organized. The high-quality leather is soft yet durable, ensuring it will last for years. The bag includes both a top handle and a detachable shoulder strap, offering versatile carrying options. Its timeless design and classic color make it a perfect accessory for both casual and formal outfits.",
+        "price": 199.99,
+        "ratings": 4.7,
+        "availability": "In Stock",
+        "specifications": {
+          "material": "Genuine Leather",
+          "dimensions": "12x10x5 inches",
+          "color": "Brown"
+        },
+        "category": "Fashion"
+      },
+      {
+        "product_name": "Sunglasses",
+        "product_image": "https://i.ibb.co/Fhkw9P0/sunglass.jpg",
+        "short_description": "Stylish sunglasses with UV protection, ideal for sunny days. These Sunglasses feature a sleek and modern design with a lightweight frame that is comfortable to wear. The lenses provide 100% UV protection, shielding your eyes from harmful rays. The durable construction ensures they can withstand daily wear and tear. Whether you're heading to the beach, driving, or just enjoying a sunny day, these sunglasses add a touch of style while keeping your eyes protected.",
+        "price": 49.99,
+        "ratings": 4.3,
+        "availability": "In Stock",
+        "specifications": {
+          "lens_material": "Polycarbonate",
+          "frame_material": "Metal",
+          "UV_protection": "100%"
+        },
+        "category": "Fashion"
+      },
+      {
+        "product_name": "Woolen Scarf",
+        "product_image": "https://i.ibb.co/cFZrkGS/scarf.jpg",
+        "short_description": "Warm and cozy woolen scarf, perfect for chilly days. This Woolen Scarf is made from soft and warm wool, providing excellent insulation against the cold. Its generous size allows you to wrap it comfortably around your neck, adding both warmth and style to your winter outfit. The scarf is available in a variety of colors, making it easy to match with your wardrobe. Whether you're heading to work or out for a walk, this scarf is a must-have accessory for the colder months.",
+        "price": 39.99,
+        "ratings": 4.6,
+        "availability": "In Stock",
+        "specifications": {
+          "material": "Wool",
+          "dimensions": "70x12 inches",
+          "color": "Red"
+        },
+        "category": "Fashion"
+      },
+      {
+        "product_name": "Analog Watch",
+        "product_image": "https://i.ibb.co/Prt5Bkp/analog-Watch.jpg",
+        "short_description": "Classic analog watch with leather strap, combining elegance and functionality. This Analog Watch features a stainless steel case and a genuine leather strap that is both comfortable and durable. The watch has a clear and easy-to-read dial with classic hour markers and hands. It is also water-resistant, making it suitable for everyday wear. The timeless design ensures it can be worn with both casual and formal attire, making it a versatile addition to your accessories collection.",
+        "price": 129.99,
+        "ratings": 4.4,
+        "availability": "In Stock",
+        "specifications": {
+          "case_material": "Stainless Steel",
+          "strap_material": "Leather",
+          "water_resistance": "30 meters"
+        },
+        "category": "Fashion"
+      },
+      {
+        "product_name": "Vacuum Cleaner",
+        "product_image": "https://i.ibb.co/B4qQ7jG/cleaner.jpg",
+        "short_description": "High-power vacuum cleaner for all surfaces, ensuring a clean home. The Vacuum Cleaner features a powerful 1200W motor that provides strong suction to effectively clean carpets, hardwood floors, and upholstery. Its lightweight design and swivel steering make it easy to maneuver around furniture and tight spaces. The large dustbin capacity means fewer trips to empty it, and the HEPA filter traps allergens, making it ideal for homes with pets and allergy sufferers. With multiple attachments, you can tackle any cleaning task with ease.",
+        "price": 199.99,
+        "ratings": 4.5,
+        "availability": "In Stock",
+        "specifications": {
+          "power": "1200W",
+          "capacity": "2L",
+          "cord_length": "5 meters"
+        },
+        "category": "Home"
+      },
+      {
+        "product_name": "Air Purifier",
+        "product_image": "https://i.ibb.co/tXZZq2h/air-Purifier.jpg",
+        "short_description": "Efficient air purifier with HEPA filter, ideal for improving indoor air quality. The Air Purifier covers up to 500 square feet, making it perfect for bedrooms, living rooms, and offices. It features a true HEPA filter that captures 99.97% of airborne particles, including dust, pollen, and pet dander. The quiet operation ensures it won't disturb your daily activities or sleep. With its sleek design and easy-to-use controls, you can enjoy clean and fresh air effortlessly.",
+        "price": 249.99,
+        "ratings": 4.7,
+        "availability": "In Stock",
+        "specifications": {
+          "coverage_area": "500 sq ft",
+          "filter_life": "6 months",
+          "noise_level": "25 dB"
+        },
+        "category": "Home"
+      },
+      {
+        "product_name": "Coffee Maker",
+        "product_image": "https://i.ibb.co/mFqcQHY/coffee-Maker.jpg",
+        "short_description": "Automatic coffee maker with programmable settings for a perfect brew. The Coffee Maker allows you to wake up to a freshly brewed pot of coffee thanks to its programmable timer. It has a 12-cup capacity, making it ideal for families and entertaining guests. The easy-to-read display and intuitive controls make it simple to use. The coffee maker also features a built-in water filter to ensure great-tasting coffee every time. With its sleek design, it complements any kitchen decor.",
+        "price": 99.99,
+        "ratings": 4.6,
+        "availability": "In Stock",
+        "specifications": {
+          "capacity": "12 cups",
+          "power": "1000W",
+          "programmable": "Yes"
+        },
+        "category": "Home"
+      },
+      {
+        "product_name": "Blender",
+        "product_image": "https://i.ibb.co/0XrGFsV/daniel-norris-ZN-86c-Zr-SN0-unsplash.jpg",
+        "short_description": "High-speed blender for smoothies and soups, making meal prep easy. The Blender features a powerful 700W motor that effortlessly blends fruits, vegetables, and ice. Its 1.5L capacity is perfect for making large batches of smoothies, soups, and sauces. The blender comes with three speed settings and a pulse function, allowing you to achieve the perfect consistency every time. The durable stainless steel blades are designed to handle tough ingredients, ensuring smooth and creamy results.",
+        "price": 79.99,
+        "ratings": 4.4,
+        "availability": "In Stock",
+        "specifications": {
+          "power": "700W",
+          "capacity": "1.5L",
+          "settings": "3 speed levels"
+        },
+        "category": "Home"
+      },
+      {
+        "product_name": "Electric Kettle",
+        "product_image": "https://i.ibb.co/S3p2w7b/blender.jpg",
+        "short_description": "Fast boiling electric kettle with auto-shutoff for convenience and safety. The Electric Kettle has a 1.7L capacity, making it perfect for preparing hot beverages for the whole family. Its 1500W heating element ensures water boils quickly, while the auto-shutoff feature prevents it from boiling dry. The kettle is made from stainless steel, which is both durable and easy to clean. The cordless design and 360-degree swivel base make it easy to use and pour. With its modern design, it looks great on any kitchen countertop.",
+        "price": 49.99,
+        "ratings": 4.5,
+        "availability": "In Stock",
+        "specifications": {
+          "capacity": "1.7L",
+          "power": "1500W",
+          "material": "Stainless Steel"
+        },
+        "category": "Home"
+      },
+      {
+        "product_name": "Smart Light Bulb",
+        "product_image": "https://i.ibb.co/hyk2RRj/smart-Light.jpg",
+        "short_description": "Wi-Fi enabled smart light bulb with color change, perfect for setting the mood. The Smart Light Bulb allows you to control your lighting from your smartphone or with voice commands through smart assistants like Alexa and Google Assistant. You can choose from millions of colors and adjust the brightness to create the perfect ambiance for any occasion. The energy-efficient LED technology ensures long-lasting performance and reduced energy costs. Easy to install and use, it's a great addition to any smart home setup.",
+        "price": 29.99,
+        "ratings": 4.3,
+        "availability": "In Stock",
+        "specifications": {
+          "lumens": "800",
+          "color_temperature": "2700K-6500K",
+          "control": "App, Voice"
+        },
+        "category": "Home"
+      }
+    ]
+  
+  
